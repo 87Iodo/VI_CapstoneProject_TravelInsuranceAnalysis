@@ -54,4 +54,4 @@ Based on the analysis, the following actions are recommended:
 The analysis based on just one dataset can have limited insights. More information such as travelling cost and type of trvael insurance purchased would be useful to gain more insights.
 
 ### References
-- [kaggle](https://www.kaggle.com/datasets/mundher/airasia passengers)
+- [kaggle](https://www.kaggle.com/datasets/mundher/airasia-passengers)
