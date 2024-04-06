@@ -4,6 +4,8 @@
 
 This project aims to provide insights into the take up rate of travel insurance by analyzing AirAsia's booking data including purchase of ancillaries. The objective is to translate these insights into actionable recommendations that will boost the take up rate of travel insurance.
 
+[Tableu Storyboard](https://public.tableau.com/app/profile/lee.boon.chek/viz/CapstoneLeeBoonChek433A/Story1?publish=yes)
+
 ### Data Sources
 
 Flight booking data: The dataset used for this analysis is "AncillaryScoring_insurance.csv". It contains the flight route information as well as the purcahse of ancillaries such as meal and seat.
