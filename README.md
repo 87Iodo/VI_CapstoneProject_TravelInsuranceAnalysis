@@ -1,18 +1,5 @@
 # Travel Insurance Analysis
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaningpreparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Model Building and Evaluation](#model-building-and-evaluation)
-- [Results/Findings](#resultsfindings)
-- [Recommendations](#recommendations)
-- [Limitations](#limitations)
-- [References](#references)
-
 ### Project Overview
 
 This project aims to provide insights into the take up rate of travel insurance by analyzing AirAsia's booking data including purchase of ancillaries. The objective is to translate these insights into actionable recommendations that will boost the take up rate of travel insurance.
